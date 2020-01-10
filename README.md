@@ -5,8 +5,8 @@ For this project, I'm using Python 3.8.1.
 - [Exercise 1:](https://github.com/LoriImbesi/learning-python/blob/master/ex.1.py) Intro to the print function
 - [Exercise 2:](https://github.com/LoriImbesi/learning-python/blob/master/ex2.py) Comments and Pound Characters
 - [Exercise 3:](https://github.com/LoriImbesi/learning-python/blob/master/ex3.py) Numbers and Math
-- Exercise 4: Variables and Names
-- Exercise 5: More Variables and Printing
+- [Exercise 4:](https://github.com/LoriImbesi/learning-python/blob/master/ex4.py) Variables and Names
+- [Exercise 5:](https://github.com/LoriImbesi/learning-python/blob/master/ex5.py) More Variables and Printing
 - Exercise 6: Strings and Text
 - Exercise 7: More Printing
 - Exercise 8: Printing, Printing
