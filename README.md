@@ -8,11 +8,11 @@ For this project, I'm using Python 3.8.1.
 - [Exercise 4:](https://github.com/LoriImbesi/learning-python/blob/master/ex4.py) Variables and Names
 - [Exercise 5:](https://github.com/LoriImbesi/learning-python/blob/master/ex5.py) More Variables and Printing
 - [Exercise 6:](https://github.com/LoriImbesi/learning-python/blob/master/ex6.py) Strings and Text
-- Exercise 7: More Printing
-- Exercise 8: Printing, Printing
-- Exercise 9: Printing, Printing, Printing
-- Exercise 10: What Was That?
-- Exercise 11: Asking Questions
+- [Exercise 7:](https://github.com/LoriImbesi/learning-python/blob/master/ex7.py) More Printing
+- [Exercise 8:](https://github.com/LoriImbesi/learning-python/blob/master/ex8.py) Printing, Printing
+- [Exercise 9:](https://github.com/LoriImbesi/learning-python/blob/master/ex9.py) Printing, Printing, Printing
+- [Exercise 10:](https://github.com/LoriImbesi/learning-python/blob/master/ex10.py) What Was That?
+- [Exercise 11:](https://github.com/LoriImbesi/learning-python/blob/master/ex11.py) Asking Questions
 - Exercise 12: Prompting People
 - Exercise 13: Parameters, Unpacking, Variables
 - Exercise 14: Prompting and Passing
