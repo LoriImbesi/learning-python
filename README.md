@@ -13,8 +13,9 @@ For this project, I'm using Python 3.8.1.
 - [Exercise 9:](https://github.com/LoriImbesi/learning-python/blob/master/ex9.py) Printing, Printing, Printing
 - [Exercise 10:](https://github.com/LoriImbesi/learning-python/blob/master/ex10.py) What Was That?
 - [Exercise 11:](https://github.com/LoriImbesi/learning-python/blob/master/ex11.py) Asking Questions
-- Exercise 12: Prompting People
-- Exercise 13: Parameters, Unpacking, Variables
+- [Exercise 12:](https://github.com/LoriImbesi/learning-python/blob/master/ex12.py) Prompting People
+- [Exercise 13:](https://github.com/LoriImbesi/learning-python/blob/master/ex13.py) Parameters, Unpacking, Variables
+- [Exercise 13 drill:](https://github.com/LoriImbesi/learning-python/blob/master/ex13.py) Using argv and import
 - Exercise 14: Prompting and Passing
 - Exercise 15: Reading Files
 - Exercise 16: Reading and Writing Files
