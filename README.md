@@ -16,12 +16,20 @@ For this project, I'm using Python 3.8.1.
 - [Exercise 12:](https://github.com/LoriImbesi/learning-python/blob/master/ex12.py) Prompting People
 - [Exercise 13:](https://github.com/LoriImbesi/learning-python/blob/master/ex13.py) Parameters, Unpacking, Variables
 - [Exercise 13 drill:](https://github.com/LoriImbesi/learning-python/blob/master/ex13drill.py) Using argv and import
-- Exercise 14: Prompting and Passing
-- Exercise 15: Reading Files
-- Exercise 16: Reading and Writing Files
-- Exercise 17: More Files
-- Exercise 18: Names, Variables, Code, Functions
-- Exercise 19: Functions and Variables
+- [Exercise 14:](https://github.com/LoriImbesi/learning-python/blob/master/ex14.py) Prompting and Passing
+- [Exercise 15:](https://github.com/LoriImbesi/learning-python/blob/master/ex15.py) Reading Files
+- [Exercise 15:](https://github.com/LoriImbesi/learning-python/blob/master/ex15drill.py) Reading Files drill
+- [Exercise 15:](https://github.com/LoriImbesi/learning-python/blob/master/ex15_sample.txt) Reading Files
+- [Exercise 16:](https://github.com/LoriImbesi/learning-python/blob/master/ex16.py) Reading and Writing Files
+- [Exercise 16:](https://github.com/LoriImbesi/learning-python/blob/master/ex16drill2.py) Reading and Writing Files
+- [Exercise 16:](https://github.com/LoriImbesi/learning-python/blob/master/ex16drill3.py) Reading and Writing Files
+- [Exercise 16:](https://github.com/LoriImbesi/learning-python/blob/master/ex16test.txt) Reading and Writing Files
+- [Exercise 17:](https://github.com/LoriImbesi/learning-python/blob/master/ex17.py) More Files
+- [Exercise 17:](https://github.com/LoriImbesi/learning-python/blob/master/ex17drill2.py) More Files
+- [Exercise 17:](https://github.com/LoriImbesi/learning-python/blob/master/ex17test.txt) More Files
+- [Exercise 18:](https://github.com/LoriImbesi/learning-python/blob/master/ex18.py) Names, Variables, Code, Functions
+- [Exercise 19:](https://github.com/LoriImbesi/learning-python/blob/master/ex19.py) Functions and Variables
+- [Exercise 19:](https://github.com/LoriImbesi/learning-python/blob/master/ex19drill.py) Functions and Variables
 - Exercise 20: Functions and Files
 - Exercise 21: Functions Can Return Something
 - Exercise 22: What Do You Know So Far?
