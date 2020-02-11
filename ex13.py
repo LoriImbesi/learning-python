@@ -1,5 +1,6 @@
+# Parameters, Unpacking, Variables
 from sys import argv
-# read the WYSS section for how to run this
+# read the WYSS section for how to run this, p. 73
 script, first, second, third = argv
 
 print("The script is called:", script)

@@ -1,3 +1,4 @@
+# Prompting People
 age = input("How old are you? ")
 height = input("How tall are you? ")
 eyecolor = input("What is your eyecolor? ")
